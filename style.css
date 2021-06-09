@@ -10,6 +10,15 @@ body,html {
   font-family: sans-serif;
 }
 
+.instruction {
+  position:relative;
+  top: 30vh;
+  text-align: center;
+  color:white;
+  font-size: 2rem;
+
+  
+}
 .keys {
   display: flex;
   flex: 1;
